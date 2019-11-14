@@ -3,10 +3,11 @@
 title: Font Family Variables
 email: d
 description: Hi
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "" 
 twitter_username: d
 github_username:  d
+destination: docs
 
 # Build settings
 
