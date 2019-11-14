@@ -16,6 +16,7 @@ plugins:
 
 #
 exclude:
+  - docs
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
